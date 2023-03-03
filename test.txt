@@ -1,2 +1,3 @@
 init
 create branch1
+branch2 is created from branch1
